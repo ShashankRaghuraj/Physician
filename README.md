@@ -31,12 +31,14 @@ Speciality physicians spend on an average of 20 minutes on electronic health rec
 
 ### Introducing Physician!
 ‘Physician’ is a desktop application that uses artificial intelligence (AI) to help doctors assess patients faster, diagnose their symptoms efficiently along with a voice automated notes feature.
-This prototype has 3 main features. 
-View Patient Data and x-ray Diagnosis
-In this, the patient information is pulled and their X-ray scan is interpreted and diagnosed, typically what a radiologist does (for now, the focus is on tuberculosis detection). 
-Symptom checker - Determining a diagnosis through appropriate symptom detection. 
-Here, the doctors will analyze patient health issues by accessing their symptoms and can come up with a course of action based on the diagnosis.
 
-Voice automated notes 
-Doctors who are eventful all the time, can use this feature to capture the electronic health records for each patient they visit via a voice activated system. This alleviates the documentation burden from the physicians. 
+This prototype has 3 main features. 
+* View Patient Data and x-ray Diagnosis
+  -In this, the patient information is pulled and their X-ray scan is interpreted and diagnosed, typically what a radiologist does (for now, the focus is on tuberculosis detection). 
+
+* Symptom checker - Determining a diagnosis through appropriate symptom detection. 
+  - Here, the doctors will analyze patient health issues by accessing their symptoms and can come up with a course of action based on the diagnosis.
+
+* Voice automated notes 
+  - Doctors who are eventful all the time, can use this feature to capture the electronic health records for each patient they visit via a voice activated system. This alleviates the documentation burden from the physicians. 
 
