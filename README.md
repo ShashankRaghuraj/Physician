@@ -34,7 +34,7 @@ Speciality physicians spend on an average of 20 minutes on electronic health rec
 
 This prototype has 3 main features. 
 * View Patient Data and x-ray Diagnosis
-  -In this, the patient information is pulled and their X-ray scan is interpreted and diagnosed, typically what a radiologist does (for now, the focus is on tuberculosis detection). 
+  - In this, the patient information is pulled and their X-ray scan is interpreted and diagnosed, typically what a radiologist does (for now, the focus is on tuberculosis detection). 
 
 * Symptom checker - Determining a diagnosis through appropriate symptom detection. 
   - Here, the doctors will analyze patient health issues by accessing their symptoms and can come up with a course of action based on the diagnosis.
