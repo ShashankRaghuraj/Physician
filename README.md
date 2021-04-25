@@ -1,9 +1,10 @@
 # Physician
 
-As Kanye West said:
+As The Notorious B.I.G said:
 
-> We're living the future so
-> the present is our past.
+> “We can’t change the world unless we change ourselves”
+
+**Note** the application may not work, since all the files aren't in the github, apprently it has reached the limit on the number of files the repository can hold
 
 ## Problem
 
